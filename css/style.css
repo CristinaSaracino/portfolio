@@ -1,0 +1,41 @@
+<!doctype html>
+
+
+
+<html lang="en">
+<head>
+<script src="https://kit.fontawesome.com/36308d9cf2.js" crossorigin="anonymous"></script>
+<meta charset="utf-8">
+<title>Undeviating</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap" rel="stylesheet">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+<header>
+<h1>Undeviating</h1>
+<nav>
+<ul>
+<li class="active"><a href="index.html">HOMEPAGE</a></li>
+<li><a href="clients.html">OUR CLIENTS</a></li>
+<li><a href="about.html">ABOUT US</a></li>
+<li><a href="careers.html">CAREERS</a></li>
+<li><a href="contact.html">CONTACT US</a></li>
+</ul>
+</nav>
+</header>
+<section>
+<img src="img/raccoonicorn.jpg"/>
+<h2>Welcome to our website</h2>
+<p>This is <b>undeviating</b> a free fully standards-compliant css template designated by <a href="https://nicepage.com/html-templates">TEMPLATED blablbalbla free fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designatedfree fully standards-compliant css template designated</p>
+</section>
+<footer>
+<a href="contact.html">CONTACT</a>
+<p>
+<i class="fab fa-twitter-square"></i><br/>
+<i class="fab fa-instagram-square"></i>
+</p>
+</footer>
+</body>
+</html>
